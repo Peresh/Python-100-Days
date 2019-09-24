@@ -1,57 +1,8 @@
 ## Python - 100天从新手到大师
 
-> 作者：骆昊
->
-> 最近有很多想学习Python的小伙伴陆陆续续加入我们的交流群，目前我们的交流群人数已经超过一万人，光靠我自己已经无法及时处理小伙伴们的入群申请，更无法及时为大家解答问题。目前我的想法是分技术方向建立讨论群并安排专门的人来管理这些群，群管理者应该具备专业的知识并有相对充裕的时间，可以解答小伙伴们提出的问题。当然，我会向这些管理者支付报酬，如果有兴趣成为管理者的可以跟我私聊。但愿通过这种方式，我们的群能汇聚更多优秀的Python开发者，一方面打造一个优质的沟通和交流的平台，另一方面让新入行的开发者获得问道的途径并藉此迅速成长。我会继续努力做好线上公开课以及线下技术交流活动，也希望各位小伙伴一如既往的支持我们。创作不易，感谢大家的打赏支持，这些钱不会用于购买咖啡而是通过腾讯公益平台捐赠给需要帮助的人（[点击](./更新日志.md)了解捐赠情况）。感谢**北京千锋互联科技有限公司**对[公开课](https://ke.qq.com/course/406954)提供的支持。
-
-![](./res/python_qq_group.jpg)
-
-### Python应用领域和就业形势分析
-
-简单的说，Python是一个“优雅”、“明确”、“简单”的编程语言。
-
- - 学习曲线低，非专业人士也能上手
- - 开源系统，拥有强大的生态圈
- - 解释型语言，完美的平台可移植性
- - 支持面向对象和函数式编程
- - 能够通过调用C/C++代码扩展功能
- - 代码规范程度高，可读性强
-
-目前几个比较流行的领域，Python都有用武之地。
-
- - 云基础设施 - Python / Java / Go
- - DevOps - Python / Shell / Ruby / Go
- - 网络爬虫 - Python / PHP / C++
- - 数据分析挖掘 - Python / R / Scala / Matlab
- - 机器学习 - Python / R / Java / Lisp
-
-作为一名Python开发者，主要的就业领域包括：
-
-- Python服务器后台开发 / 游戏服务器开发 / 数据接口开发工程师
-- Python自动化运维工程师
-- Python数据分析 / 数据可视化 / 大数据工程师
-- Python爬虫工程师
-- Python聊天机器人开发 / 图像识别和视觉算法 / 深度学习工程师
-
-下图显示了主要城市Python招聘需求量及薪资待遇排行榜（截止到2018年5月）。
-
-![Python招聘需求及薪资待遇Top 10](./res/python-top-10.png)
-
-![](./res/python-bj-salary.png)
-
-![](./res/python-salary-chengdu.png)
-
-给初学者的几个建议：
-
-- Make English as your working language.
-- Practice makes perfect.
-- All experience comes from mistakes.
-- Don't be one of the leeches.
-- Either stand out or kicked out.
-
 ### Day01~15 - [Python语言基础](./Day01-15)
 
-#### Day01 - [初识Python](./Day01-15/01.初识Python.md)
+#### - [x] Day01 - [初识Python](./Day01-15/01.初识Python.md)
 
 - Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
