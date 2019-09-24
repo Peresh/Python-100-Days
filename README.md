@@ -2,7 +2,7 @@
 
 ### Day01~15 - [Python语言基础](./Day01-15)
 
-#### Day01 - [初识Python](./Day01-15/01.初识Python.md)
+#### Day01 :white_check_mark: - [初识Python](./Day01-15/01.初识Python.md)
 
 - Python简介 - Python的历史 / Python的优缺点 / Python的应用领域
 - 搭建编程环境 - Windows环境 / Linux环境 / MacOS环境
